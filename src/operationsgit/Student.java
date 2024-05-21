@@ -10,4 +10,5 @@ package operationsgit;
  */
 public class Student {
     private int number;
+    private int score;
 }
