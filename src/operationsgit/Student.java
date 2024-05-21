@@ -12,4 +12,6 @@ public class Student {
     private int number;
     private int score;
     private String name;
+    private float fees;
+    // fetch + merge
 }
